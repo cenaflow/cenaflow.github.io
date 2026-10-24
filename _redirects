@@ -1,0 +1,3 @@
+# Cloudflare Pages: arquivos reais (APK, EXE, zip, assets do Flutter) são servidos
+# primeiro. Qualquer rota do aplicativo cai no index.html.
+/*    /index.html   200

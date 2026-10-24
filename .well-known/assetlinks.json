@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.palco.palco",
+      "sha256_cert_fingerprints": [
+        "26:25:94:6E:E3:6E:35:33:F8:4D:45:C1:B9:40:CE:31:C5:03:41:B5:6F:0E:FD:4F:DE:6C:E1:C7:6D:E4:55:0E"
+      ]
+    }
+  }
+]
